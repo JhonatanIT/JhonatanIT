@@ -46,6 +46,16 @@ I am a passionate Software Engineer from Perú with 4 years of experience in ana
 
 
 <!--START_SECTION:waka-->
+
+```text
+Java                             ██████████████▓░░░░░░░░░░   58.73 %
+TypeScript                       ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+C#                               ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
+YAML                             █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+HTML                             ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+XML                              ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+```
+
 <!--END_SECTION:waka-->
 
 
