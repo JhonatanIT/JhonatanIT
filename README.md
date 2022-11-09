@@ -51,14 +51,7 @@ I am a passionate Software Engineer from Perú with 4 years of experience in ana
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatanit&theme=dark" alt="jhonatanit" /></p>
 -->
 
-<!--START_SECTION:waka-->
 
-```text
-Java                             ████████████▓░░░░░░░░░░░░   50.23 %
-Other                            ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
-```
-
-<!--END_SECTION:waka-->
 
 
 <!--
