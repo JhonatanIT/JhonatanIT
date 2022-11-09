@@ -52,6 +52,12 @@ I am a passionate Software Engineer from Perú with 4 years of experience in ana
 -->
 
 <!--START_SECTION:waka-->
+
+```text
+Java                             ████████████▓░░░░░░░░░░░░   50.23 %
+Other                            ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
+```
+
 <!--END_SECTION:waka-->
 
 
