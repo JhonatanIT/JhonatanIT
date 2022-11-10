@@ -4,7 +4,7 @@
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=22eayj5ns42g4zmnn6lpus6bi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=22eayj5ns42g4zmnn6lpus6bi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false">
 
 <h3 align="left">
-I am a passionate Software Engineer from Perú with 4 years of experience in analysis, design and implementation of business products in the banking and telecommunications industries 
+I am a passionate Software Engineer from Perú with 4 years of experience in analysis, design and implementation of enterprise systems in the banking and telecommunications industries 
 </h3>
 <br>
 
