@@ -18,7 +18,7 @@ I am a passionate Software Engineer from Perú with 4 years of experience in ana
 
 - 🔭 I worked on [BYTE](http://www.bytesw.com/) as a **Software Developer**
 
-- 🌱 I’m currently learning **Azure, GitHub Actions, C#, New Relic**
+- 🌱 I’m currently learning **Azure, GitHub Actions, Neo4j**
 
 - 👯 I’m looking to collaborate on **analysing, designing and developing software solutions**
 
@@ -41,11 +41,15 @@ I am a passionate Software Engineer from Perú with 4 years of experience in ana
 
 
 <br>
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonatanit&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="jhonatanit" /></p>
+-->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JhonatanIT&layout=compact&theme=github_dark&include_all_commits=true" alt="jhonatanit" /></p>
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonatanit&show_icons=true&count_private=true&locale=en&theme=github_dark" alt="jhonatanit" /></p>
+-->
 
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatanit&theme=dark" alt="jhonatanit" /></p>
