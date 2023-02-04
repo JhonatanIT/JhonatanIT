@@ -18,7 +18,7 @@ I am a passionate Software Engineer from Perú with 4 years of experience in ana
 
 - 🔭 I worked on [BYTE](http://www.bytesw.com/) as a **Software Developer**
 
-- 🌱 I’m currently learning **Azure, GitHub Actions, Neo4j**
+- 🌱 I’m currently learning *React**
 
 - 👯 I’m looking to collaborate on **analysing, designing and developing software solutions**
 
