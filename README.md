@@ -45,7 +45,7 @@ I am a passionate Software Engineer from Perú with 4 years of experience in ana
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonatanit&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="jhonatanit" /></p>
 -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JhonatanIT&layout=compact&theme=github_dark&include_all_commits=true" alt="jhonatanit" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=JhonatanIT&layout=compact&theme=github_dark&include_all_commits=true" alt="jhonatanit" /></p>
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonatanit&show_icons=true&count_private=true&locale=en&theme=github_dark" alt="jhonatanit" /></p>
