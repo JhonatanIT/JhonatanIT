@@ -4,7 +4,12 @@
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=22eayj5ns42g4zmnn6lpus6bi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=22eayj5ns42g4zmnn6lpus6bi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false">
 
 <h3 align="left">
-I am a passionate Software Engineer from Perú with 4 years of experience in analysis, design and implementation of enterprise systems in the banking and telecommunications industries 
+
+  As an accomplished Software Engineer with four 4 of experience, I have successfully navigated the entire software development lifecycle in the challenging domains of banking and telecommunications. 
+  
+  My passion for technology drives me to collaborate with like-minded teams, dedicated to achieving the greater good while fostering our own professional growth. 
+  
+  As an avid IT learner, I continually position myself at the forefront of emerging technologies, ensuring innovation remains my driving force 🚀.
 </h3>
 <br>
 
@@ -18,7 +23,7 @@ I am a passionate Software Engineer from Perú with 4 years of experience in ana
 
 - 🔭 I worked on [BYTE](http://www.bytesw.com/) as a **Software Developer**
 
-- 🌱 I’m currently learning *React*
+- 🌱 I’m currently learning *Langchain4j*, *Generative AI*
 
 - 👯 I’m looking to collaborate on **analysing, designing and developing software solutions**
 
