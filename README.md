@@ -1,9 +1,8 @@
 
 <img src="./github-banner.png" width="100%">
 <hr>
-<img align="right" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=22eayj5ns42g4zmnn6lpus6bi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=22eayj5ns42g4zmnn6lpus6bi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false">
 
-<h3 align="left">
+<h3>
 
   As an accomplished Software Engineer with four 4 of experience, I have successfully navigated the entire software development lifecycle in the challenging domains of banking and telecommunications. 
   
@@ -21,7 +20,7 @@
   <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhonatanit&theme=onedark&rank=-?&no-frame=true&column=4" alt="jhonatanit" /></a> </p>-->
 </div>
 
-- 🔭 I worked on [BYTE](http://www.bytesw.com/) as a **Software Developer**
+- 🔭 I worked on [BYTE](https://www.bytesw.com/) as a **Software Developer**
 
 - 🌱 I’m currently learning *Langchain4j*, *Generative AI*
 
@@ -51,6 +50,8 @@
 -->
 
 <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=JhonatanIT&layout=compact&theme=github_dark&include_all_commits=true" alt="jhonatanit" /></p>
+
+
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonatanit&show_icons=true&count_private=true&locale=en&theme=github_dark" alt="jhonatanit" /></p>
