@@ -4,7 +4,7 @@
 
 <h3>
 
-  As an accomplished Software Engineer with four 4 of experience, I have successfully navigated the entire software development lifecycle in the challenging domains of banking and telecommunications. 
+  As an accomplished Software Engineer with four 7 of experience, I have successfully navigated the entire software development lifecycle in the challenging domains of banking and telecommunications. 
   
   My passion for technology drives me to collaborate with like-minded teams, dedicated to achieving the greater good while fostering our own professional growth. 
   
@@ -23,7 +23,7 @@
 
 - 🔭 I worked on [BYTE](https://www.bytesw.com/) as a **Software Developer**
 
-- 🌱 I’m currently learning *Langchain4j*, *Generative AI*, *Kotlin*
+- 🌱 I’m currently learning *Generative AI*, *Kotlin*
 
 - 👯 I’m looking to collaborate on **analysing, designing and developing software solutions**
 
